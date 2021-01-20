@@ -1,2 +1,2 @@
-/webcam/*
-!.gitignore
+webcam/*
+!.gitkeep
